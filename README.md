@@ -20,18 +20,22 @@ Create a notebook for review, a single slide to document our finds similar to an
 ### Findings
 
 There are 4 different programs available in the dataset:
+
     - PHP Full Stack (Web Development)
     - Java Full Stack (Web Development)
     - Data Science
     - Front End (Web Development)
 
 There seems to be some suspicious activity going on with one user accessing 272 pages in the curriculum over a short duration.
+
     - This user also used a few different IP addresses.
     
 There were 468 pages in the curriculum which were only accessed once.
+
     - Some of these pages were found to be lessons while the others were professional development pages.
     
 The following lessons were accessed post graduation:
+
     - Data Science: SQL, Classification Overview, Classification Scaling
     - Full-Stack Java: Javascript-I, HTML-CSS, Spring
     - Front End: Javascript-I, HTML-CSS, Spring
