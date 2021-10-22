@@ -32,7 +32,7 @@ There seems to be some suspicious activity going on with one user accessing 272 
     
 There were 468 pages in the curriculum which were only accessed once.
 
-    - Some of these pages were found to be lessons while the others were professional development pages.
+    - Some of these pages were lessons while the others were professional development pages.
     
 The following lessons were accessed post graduation:
 
