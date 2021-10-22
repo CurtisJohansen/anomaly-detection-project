@@ -11,11 +11,11 @@ Create a notebook for review, a single slide to document our finds similar to an
 
 ### Project Questions
 
-- 1. Which lesson appears to attract the most traffic consistently across cohorts (per program)?
-- 2. Are there students who, when active, hardly access the curriculum? If so, what information do you have about these students?
-- 3. Is there any suspicious activity, such as users/machines/etc accessing the curriculum who shouldn’t be? Does it appear that any web-scraping is happening? Are there any suspicious IP addresses?
-- 4. Which lessons are least accessed? 
-- 5. What topics are grads continuing to reference after graduation and into their jobs (for each program)?
+1. Which lesson appears to attract the most traffic consistently across cohorts (per program)?
+2. Are there students who, when active, hardly access the curriculum? If so, what information do you have about these students?
+3. Is there any suspicious activity, such as users/machines/etc accessing the curriculum who shouldn’t be? Does it appear that any web-scraping is happening? Are there any suspicious IP addresses?
+4. Which lessons are least accessed? 
+5. What topics are grads continuing to reference after graduation and into their jobs (for each program)?
 
 ### Findings
 
